@@ -9,7 +9,7 @@ Github doesn't natively support Hugo, but you can point Github to a custom folde
 ## Copyright Information
   * Powered by Github pages & [Hugo](https://github.com/gohugoio/hugo)
   * [Hermit Theme ](https://themes.gohugo.io/hermit/)
-  * icon: Icon by [icons8](https://icons8.com) and converted with [icoconvert](https://icoconvert.com)
+  * icon: Icon by [icons8](https://icons8.com) and converted with [favicon-generator](https://favicon-generator.org)
 
 
 
