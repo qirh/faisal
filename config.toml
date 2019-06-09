@@ -11,7 +11,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
 
 [author]
-  name = "Fasial Aldlijab"
+  name = "Fasial Aldlijan"
 
 [blackfriday]
   hrefTargetBlank = true
