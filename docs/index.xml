@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fasial</title>
-    <link>https://qirh.gitgub.io/faisal/</link>
+    <link>https://qirh.github.io/faisal/</link>
     <description>Recent content on Fasial</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://qirh.gitgub.io/faisal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://qirh.github.io/faisal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://qirh.gitgub.io/faisal/readme/</link>
+      <link>https://qirh.github.io/faisal/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://qirh.gitgub.io/faisal/readme/</guid>
+      <guid>https://qirh.github.io/faisal/readme/</guid>
       <description>Hugo won&amp;rsquo;t build without a content folder</description>
     </item>
     

@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Fasial</title>
-    <link>https://qirh.gitgub.io/faisal/categories/</link>
+    <link>https://qirh.github.io/faisal/categories/</link>
     <description>Recent content in Categories on Fasial</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://qirh.gitgub.io/faisal/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://qirh.github.io/faisal/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
