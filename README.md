@@ -1,6 +1,6 @@
-# Naif's personal website [![MIT license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/qirh/naif/master/LICENSE)
+# Faisal's personal website [![MIT license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/qirh/faisal/master/LICENSE)
 
-[naif.soy](https://naif.soy)
+[qirh.gitgub.io/faisal](https://qirh.gitgub.io/faisal)
 
 Static website, built using Hugo.
 
