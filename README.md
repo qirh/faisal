@@ -1,6 +1,6 @@
 # Faisal's personal website [![MIT license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/qirh/faisal/master/LICENSE)
 
-[qirh.gitgub.io/faisal](https://qirh.gitgub.io/faisal)
+[qirh.github.io/faisal](https://qirh.github.io/faisal)
 
 Static website, built using Hugo.
 
