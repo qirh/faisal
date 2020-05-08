@@ -1,7 +1,5 @@
 # Faisal's personal website [![MIT license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/qirh/faisal/master/LICENSE)
 
-[qirh.github.io/faisal](https://qirh.github.io/faisal)
-
 Static website, built using Hugo.
 
 Github doesn't natively support Hugo, but you can point Github to a custom folder `docs/` and also tell Hugo to build the website there using the `publishDir` parameter in `config.toml`.
